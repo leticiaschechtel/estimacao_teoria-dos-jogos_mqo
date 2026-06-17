@@ -2,19 +2,21 @@
 
 Projeto que aplica **Mínimos Quadrados Ordinários (MQO)** em forma matricial para análise e estimação de dados relacionados à Copa do Mundo.
 
-## 📋 Objetivo
+## Objetivo
 
 Implementar estimações econométricas usando o método MQO, explorando dados de competições de futebol sob a perspectiva da **Teoria dos Jogos** e análise estatística.
 
-## 🔧 Tecnologia
+## Stack
 
 - **Linguagem**: R
 - **Método**: Mínimos Quadrados Ordinários (MQO) Matricial
 - **Aplicação**: Análise de dados da Copa do Mundo
 
-## 📊 O que é MQO?
+## O que é MQO?
 
 MQO (Mínimos Quadrados Ordinários) é um método estatístico que estima os parâmetros de um modelo linear minimizando a soma dos quadrados dos resíduos.
+
+A escolha de MQO foi para finalidade de "brincadeira" com a amostragem, minimizar os erros da equação sem padronização acaba sendo insuficiênte para um quadro de dados com tantas variáveis binárias.
 
 **Forma Matricial:**
 ```
@@ -26,24 +28,21 @@ Onde:
 - `X` = matriz de variáveis independentes
 - `y` = vetor de variável dependente
 
-## 🎯 Estrutura do Projeto
+## Estrutura do Projeto
 
 - Implementação de estimação MQO em R
 - Análise de dados da Copa do Mundo
 - Aplicação de conceitos de Teoria dos Jogos
 
-## 🚀 Como Usar
-
-1. Clone o repositório
-2. Abra os arquivos R no seu ambiente (RStudio, R Console, etc.)
-3. Execute os scripts para rodar as estimações
-
-## 📚 Referências
+## Referências
 
 - Mínimos Quadrados Ordinários (MQO)
-- Teoria dos Jogos aplicada ao futebol
+- Teoria dos Jogos aplicada
 - Análise matricial em econometria
+- Paper Joaquim Klement 
 
 ---
 
-**Desenvolvido em R** | Análise Econométrica
+**Desenvolvido em R em período de graduação**
+
+**17/06/2026**
