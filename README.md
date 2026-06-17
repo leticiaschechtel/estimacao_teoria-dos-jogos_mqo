@@ -34,7 +34,7 @@ Onde:
 - Análise de dados da Copa do Mundo
 - Aplicação de conceitos de Teoria dos Jogos
 
-## Referências
+## Ideia e referência 
 
 - Mínimos Quadrados Ordinários (MQO)
 - Teoria dos Jogos aplicada
