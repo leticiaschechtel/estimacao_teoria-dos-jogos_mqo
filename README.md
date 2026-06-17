@@ -1,2 +1,4 @@
-# estimacao_teoria-dos-jogos_mqo
-Estimação MQO matricial e Copa do Mundo
+# Aula aplicada de Econometria: MQO matricial e Copa do Mundo
+Modelo didático inspirado em Joachim Klement.
+
+Dados simulados: **NÃO são dados oficiais**.
